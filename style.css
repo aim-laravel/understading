@@ -32,7 +32,19 @@ html, body {
 }
 
 .title {
-    font-size: 84px;
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+.sub-title {
+    font-weight: 500;
+    font-size: 1.8rem;
+}
+
+cite{
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.8rem;
 }
 
 .links > a {
